@@ -25,8 +25,6 @@
 
 ![Mousio 1](./assets/screenshots-1.png)
 
-![Mousio 2](./assets/screenshots-2.png)
-
 No need to touch the mouse — everything at your fingertips!
 
 Quickly move, click, and drag the mouse cursor using just your keyboard. Boost your efficiency and stay focused.
@@ -39,6 +37,8 @@ Quickly move, click, and drag the mouse cursor using just your keyboard. Boost y
 - **Custom Dock-style launcher**: Create a customizable Dock-style panel for quick app or action access  
 
 ### Shortcuts
+
+![Mousio 2](./assets/screenshots-2.png)
 
 - Enable Keyboard Mouse: Double tap <kbd>Ctrl ⌃</kbd> / <kbd>Cmd ⌘</kbd> / <kbd>Opt ⌥</kbd>
 - Exit Keyboard Mouse Mode: <kbd>ESC</kbd>

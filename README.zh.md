@@ -23,6 +23,8 @@
   </p>
 </div>
 
+![Mousio 1](./assets/screenshots-1.png)
+
 无需动鼠标，一切尽在指尖！
 
 使用键盘即可快速移动、点击和拖动鼠标光标。提升效率，保持专注。
@@ -35,6 +37,8 @@
 - **自定义 Dock 样式启动器**：创建可自定义的 Dock 样式面板，快速访问应用或操作  
 
 ### 快捷键
+
+![Mousio 3](./assets/screenshots-3.png)
 
 - 启用键盘鼠标模式：<kbd>Ctrl ⌃</kbd> / <kbd>Cmd ⌘</kbd> / <kbd>Opt ⌥</kbd> 双击
 - 退出键盘鼠标模式：<kbd>ESC</kbd>
