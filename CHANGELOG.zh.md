@@ -10,4 +10,8 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.1.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.1.0)
+
+1. 修复: 修复国际化问题
+
 ## [v1.0.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.0.0)
