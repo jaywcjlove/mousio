@@ -10,6 +10,13 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.3.0)
+
+1. 新功能: 新增支持将 ESDF 定义为方向键。
+2. 修复: 修复聚焦屏幕的默认行为问题。
+3. 修复: 排除回车键和删除键。
+4. 修复: 修复屏幕焦点切换不准确的问题。
+
 ## [v1.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.2.0)
 
 1. 新增: 新增焦点屏幕功能
