@@ -38,6 +38,7 @@ Quickly move, click, and drag the mouse cursor using just your keyboard. Boost y
 - **Grid navigation mode**: Navigate precisely using a resizable on-screen grid  
 - **Multi-display support**: Seamlessly move the cursor across multiple monitors  
 - **Custom Dock-style launcher**: Create a customizable Dock-style panel for quick app or action access  
+- **Focus Screen**: Highlight the screen under the mouse cursor to focus on the active area.  
 
 ### Shortcuts
 
