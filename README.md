@@ -29,6 +29,9 @@ No need to touch the mouse — everything at your fingertips!
 
 Quickly move, click, and drag the mouse cursor using just your keyboard. Boost your efficiency and stay focused.
 
+![Mousio 1](./assets/mousio3.gif)
+![Mousio 1](./assets/mousio4.gif)
+
 ### Features
 
 - **Keyboard-driven cursor control**: Instantly move and position the mouse pointer using keyboard shortcuts  
