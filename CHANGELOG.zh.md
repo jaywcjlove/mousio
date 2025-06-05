@@ -10,6 +10,12 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.2.0)
+
+1. 新增: 新增焦点屏幕功能
+2. 新增：添加了光标移动速度的设置功能。
+3. 修复：排除数字快捷键的影响。
+
 ## [v1.1.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.1.0)
 
 1. 修复: 修复国际化问题
