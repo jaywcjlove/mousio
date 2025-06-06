@@ -10,6 +10,14 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.4.0)
+
+1. 新增：新增选项，可将应用导航始终固定显示在桌面上。
+2. 新增：新增选项，仅显示已添加的应用。
+3. 新增：支持快速双击分号键（`;`）来模拟鼠标双击。
+4. 修复：修复 Dock 自定义点击的问题。
+5. 优化：优化鼠标移动监听逻辑，提升整体性能。
+
 ## [v1.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.3.0)
 
 1. 新功能: 新增支持将 ESDF 定义为方向键。

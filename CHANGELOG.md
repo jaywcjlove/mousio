@@ -10,6 +10,14 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.4.0)
+
+1. feat: Added option to keep app navigation always visible on the desktop.
+2. feat: Added option to show only added apps.
+3. feat: Supported double-pressing the semicolon (`;`) key to simulate a mouse double-click.
+4. fix: Resolved custom Dock click issue.
+5. perf: Optimized mouse movement monitoring to improve performance.
+
 ## [v1.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.3.0)
 
 1. feat: Add support for defining ESDF as directional keys.
