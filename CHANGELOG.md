@@ -10,6 +10,12 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.5.0)
+
+1. 新增: 定位后自动退出光标模式。
+2. 新增: 排除 cmd + \` 快捷键。
+3. 新增: 新增默认开启宫格模式的设置项。
+
 ## [v1.4.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.4.0)
 
 1. feat: Added option to keep app navigation always visible on the desktop.
