@@ -10,11 +10,17 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.6.0)
+
+1. feat: add scroll wheel direction setting.
+2. feat: exit keyboard mode on double click.
+3. feat: shortcut exclusions in keyboard control mode.
+
 ## [v1.5.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.5.0)
 
-1. 新增: 定位后自动退出光标模式。
-2. 新增: 排除 cmd + \` 快捷键。
-3. 新增: 新增默认开启宫格模式的设置项。
+1. feat: add auto-exit for cursor mode after positioning.
+2. feat: exclude cmd + backtick shortcut.
+3. feat: add setting to enable grid mode by default.
 
 ## [v1.4.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.4.0)
 

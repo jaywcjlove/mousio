@@ -10,6 +10,12 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.6.0)
+
+1. 新增：添加滚轮方向设置。
+2. 新增：双击后自动退出键盘控制模式。
+3. 新增：键盘控制模式下支持快捷键排除设置。
+
 ## [v1.5.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.5.0)
 
 1. 新增: 定位后自动退出光标模式。
