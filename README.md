@@ -39,6 +39,15 @@ Quickly move, click, and drag the mouse cursor using just your keyboard. Boost y
 - **Multi-display support**: Seamlessly move the cursor across multiple monitors  
 - **Custom Dock-style launcher**: Create a customizable Dock-style panel for quick app or action access  
 - **Focus Screen**: Highlight the screen under the mouse cursor to focus on the active area.  
+- **Hint settings support**: Use shortcuts to quickly locate UI elements and move the pointer.
+
+### [Mousio Hint](https://github.com/jaywcjlove/mousio-hint)
+
+[Mousio Hint](https://github.com/jaywcjlove/mousio-hint) is an auxiliary enhancement tool that works in conjunction with the main **Mousio** app. Its purpose is to **significantly boost your system operating efficiency through keyboard control**.
+
+![Mousio Hint](./assets/mousio-hint3.gif)
+
+[Mousio Hint](https://github.com/jaywcjlove/mousio-hint)'s core function is to generate **keyboard shortcut hints** next to on-screen UI elements. These hints allow you to quickly move your mouse pointer to the target location using only your keyboard, completely eliminating the need for manual mouse operation.
 
 ### Shortcuts
 

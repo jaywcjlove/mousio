@@ -38,6 +38,15 @@
 - **多显示器支持**：无缝在多个显示器之间移动光标  
 - **自定义 Dock 样式启动器**：创建可自定义的 Dock 样式面板，快速访问应用或操作  
 - **焦点屏幕**：高亮鼠标光标所在屏幕，聚焦当前操作区域
+- **支持 Hint 设置**：通过快捷键快速定位界面元素并移动鼠标指针
+
+### [Mousio Hint](https://github.com/jaywcjlove/mousio-hint)
+
+[Mousio Hint](https://github.com/jaywcjlove/mousio-hint) 是一款辅助增强工具，它与主应用 Mousio 协同工作，旨在**通过键盘大幅提升您的系统操作效率**。
+
+![Mousio Hint](./assets/mousio-hint3.gif)
+
+[Mousio Hint](https://github.com/jaywcjlove/mousio-hint) 的核心功能是在屏幕上的界面元素旁生成**快捷键提示**。通过这些提示，您可以用键盘快速将鼠标指针移动到目标位置，完全无需手动操作鼠标。
 
 ### 快捷键
 
