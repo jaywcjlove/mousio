@@ -10,15 +10,18 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.7.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.7.0)
+## [v1.8.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.8.0)
 
 1. 新增：添加 Hint 模式设置界面
 2. 新增：新增 Mousio Hint 多种配置选项
 3. 新增：支持使用 F1~F2 快速激活
 4. 新增：支持设置更大的网格行列数
 5. 新增：在单显示器下隐藏聚焦屏幕
-6. 修复：修复快捷键冲突问题
-7. 修复：修复主快捷键与 Hint 快捷键冲突的问题
+
+## [v1.7.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.7.0)
+
+1. 新功能： 添加自然滚动模式设置
+2. 优化： 优化国际化显示
 
 ## [v1.6.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.6.0)
 

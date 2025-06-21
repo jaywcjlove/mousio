@@ -10,15 +10,18 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.7.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.7.0)
+## [v1.8.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.8.0)
 
 1. feat: add settings interface for Hint mode
 2. feat: add various configuration options for Mousio Hint
 3. feat: support quick activation with F1~F2
 4. feat: support larger values for grid rows and columns
 5. feat: hide focus screen on single display
-6. fix: resolve shortcut key conflict issue
-7. fix: resolve conflict between main key action and hint key
+
+## [v1.7.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.7.0)
+
+1. feat: Add natural scrolling mode setting.
+2. feat: Enhance internationalization display.
 
 ## [v1.6.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.6.0)
 
