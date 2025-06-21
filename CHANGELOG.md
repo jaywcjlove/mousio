@@ -10,6 +10,16 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.9.0)
+
+1. feat: optimize grid shortcut generation.
+2. feat: add Exit on Click option.
+3. feat: add click speed setting.
+4. fix: fix dock icon conflict issue.
+5. fix: fix small font size issue in grid view.
+6. fix: fix issue with setting Hint Dock icon independently.
+7. fix: fix event blocking issue.
+
 ## [v1.8.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.8.0)
 
 1. feat: add settings interface for Hint mode
