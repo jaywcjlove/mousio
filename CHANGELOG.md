@@ -10,6 +10,10 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.11.0)
+
+1. feat: add support for diagonal movement with arrow keys
+
 ## [v1.10.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.10.0)
 
 1. feat: Hide the setting option for Mousio Hint.

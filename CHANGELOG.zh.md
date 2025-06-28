@@ -10,6 +10,10 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.11.0)
+
+1. feat: 新增方向键支持斜着移动功能
+
 ## [v1.10.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.10.0)
 
 1. 新功能：隐藏 Mousio Hint 的设置选项。
