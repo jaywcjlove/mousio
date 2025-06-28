@@ -10,6 +10,12 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.10.0)
+
+1. 新功能：隐藏 Mousio Hint 的设置选项。
+2. 新功能：移除“创建标签页”菜单。
+3. 修复：修正快捷键描述中的拼写错误。
+
 ## [v1.9.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.9.0)
 
 1. feat: 优化宫格快捷键生成
