@@ -10,6 +10,11 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.12.0)
+
+1. feat: add restart menu item for Mousio Hint  
+2. fix: fix icon loading issue in the menu bar  
+
 ## [v1.11.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.11.0)
 
 1. feat: add support for diagonal movement with arrow keys

@@ -10,6 +10,11 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.12.0)
+
+1. feat: 添加 Mousio Hint 的重启菜单项  
+2. fix: 修复菜单栏图标加载问题  
+
 ## [v1.11.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.11.0)
 
 1. feat: 新增方向键支持斜着移动功能
