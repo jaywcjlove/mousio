@@ -10,6 +10,15 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.13.0)
+
+1. 新增：在状态栏添加鼠标滚轮选项。
+2. 新增：在状态栏添加方向键布局选项。
+3. 新增：在状态栏添加“退出键盘和鼠标”选项。
+4. 新增：在状态栏菜单中添加“启用专注屏幕”选项。
+5. 新增：添加隐藏应用标题的选项。
+6. 修复：修复导航图标加载问题。
+
 ## [v1.12.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.12.0)
 
 1. feat: 添加 Mousio Hint 的重启菜单项  

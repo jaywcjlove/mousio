@@ -10,6 +10,15 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.13.0)
+
+1. feat: add mouse wheel option to status bar.
+2. feat: add arrow key layout option to status bar.
+3. feat: add "Exit Keyboard & Mouse" option to status bar.
+4. feat: add "Enable Focus Screen" option to status bar menu.
+5. feat: add option to hide app title.
+6. fix: fix navigation icon loading.
+
 ## [v1.12.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.12.0)
 
 1. feat: add restart menu item for Mousio Hint  
