@@ -10,6 +10,13 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.14.0)
+
+1. feat: 状态栏菜单新增导航设置项。
+2. feat: 状态栏菜单新增其他选项。
+3. fix: 修复拖拽过程中焦点屏幕无法切换的问题。
+4. fix: 修复窗口无法置顶或无法正确激活应用的问题。
+
 ## [v1.13.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.13.0)
 
 1. 新增：在状态栏添加鼠标滚轮选项。

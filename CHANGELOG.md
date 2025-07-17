@@ -10,6 +10,13 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.14.0)
+
+1. feat: add navigation settings to status bar menu.
+2. feat: add other options to status bar menu.
+3. fix: focus screen not switching during drag.
+4. fix: bring window to front and activate application properly.
+
 ## [v1.13.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.13.0)
 
 1. feat: add mouse wheel option to status bar.
