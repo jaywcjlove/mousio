@@ -10,6 +10,11 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.15.0)
+
+1. feat: Add grid positioning settings to the menu bar.
+2. fix: Fix issue where screen focus could not be switched correctly.
+
 ## [v1.14.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.14.0)
 
 1. feat: add navigation settings to status bar menu.

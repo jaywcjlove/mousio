@@ -10,6 +10,11 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.15.0)
+
+1. 新增：将宫格定位相关设置添加到菜单栏。
+2. 修复：修复屏幕焦点无法正确切换的问题。
+
 ## [v1.14.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.14.0)
 
 1. feat: 状态栏菜单新增导航设置项。
