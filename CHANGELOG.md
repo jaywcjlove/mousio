@@ -10,6 +10,11 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.16.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.16.0)
+
+1. fix: correct descriptions for settings parameters.
+2. perf: optimize focus screen feature.
+
 ## [v1.15.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.15.0)
 
 1. feat: Add grid positioning settings to the menu bar.

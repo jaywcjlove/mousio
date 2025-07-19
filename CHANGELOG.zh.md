@@ -10,6 +10,11 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.16.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.16.0)
+
+1. fix:  修复设置参数描述的问题。
+2. perf: 优化焦点屏幕功能，提高性能和体验。
+
 ## [v1.15.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.15.0)
 
 1. 新增：将宫格定位相关设置添加到菜单栏。
