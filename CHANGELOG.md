@@ -10,6 +10,11 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.0.0)
+
+1. feat: Add support for macOS 26.
+2. ui: Optimize the settings interface.
+
 ## [v1.16.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.16.0)
 
 1. fix: correct descriptions for settings parameters.
