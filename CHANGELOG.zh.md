@@ -10,6 +10,12 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.1.0)
+
+1. feat：新增 MousioHint 设置。
+2. ui：优化设置选项分组。
+3. fix：修复点击桌面时窗口被隐藏的问题。
+
 ## [v2.0.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.0.0)
 
 1. feat: 添加对 macOS 26 的支持。

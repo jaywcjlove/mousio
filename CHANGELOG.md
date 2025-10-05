@@ -10,6 +10,12 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.1.0)
+
+1. feat: Add MousioHint settings.
+2. ui: Improve settings option grouping.
+3. fix: Fix issue where windows get hidden when clicking the desktop.
+
 ## [v2.0.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.0.0)
 
 1. feat: Add support for macOS 26.
