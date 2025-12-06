@@ -58,12 +58,13 @@ Quickly move, click, and drag the mouse cursor using just your keyboard. Boost y
 - Arrow Key Layout:
   - <kbd>W ↑</kbd> <kbd>A ←</kbd> <kbd>S ↓</kbd> <kbd>D →</kbd>
   - <kbd>H ←</kbd> <kbd>J ↓</kbd> <kbd>K ↑</kbd> <kbd>L →</kbd>
-  - <kbd>J ↓</kbd> <kbd>K ↑</kbd> <kbd>I →</kbd> <kbd>L →</kbd>
+  - <kbd>E ←</kbd> <kbd>S ↓</kbd> <kbd>D ↑</kbd> <kbd>F →</kbd>
+  - <kbd>▼ ↓</kbd> <kbd>▲ ↑</kbd> <kbd>▶ →</kbd> <kbd>◀ ←</kbd>
 - Enable Grid Navigation Mode: <kbd>C</kbd>
 - Reset Search in Grid Navigation Mode: <kbd>Delete ⌫</kbd>
 - Hold <kbd>Space ␣</kbd> and use <kbd>A</kbd> <kbd>S</kbd> <kbd>W</kbd> <kbd>D</kbd> to move windows, select text, and move files
-- Left Mouse Click: <kbd>;</kbd> or <kbd>:</kbd>
-- Right Mouse Click: <kbd>'</kbd> or <kbd>"</kbd>
+- Left Mouse Click: <kbd>;:</kbd> or <kbd>↩︎ retern</kbd>
+- Right Mouse Click: <kbd>'"</kbd>
 - Mouse Wheel Scroll:
   - ⬅️ Scroll Left: <kbd>U</kbd>
   - ➡️ Scroll Right: <kbd>O</kbd>

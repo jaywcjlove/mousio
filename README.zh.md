@@ -57,12 +57,13 @@
 - 方向键布局：
   - <kbd>W ↑</kbd> <kbd>A ←</kbd> <kbd>S ↓</kbd> <kbd>D →</kbd>
   - <kbd>H ←</kbd> <kbd>J ↓</kbd> <kbd>K ↑</kbd> <kbd>L →</kbd>
-  - <kbd>J ↓</kbd> <kbd>K ↑</kbd> <kbd>I →</kbd> <kbd>L →</kbd>
+  - <kbd>E ←</kbd> <kbd>S ↓</kbd> <kbd>D ↑</kbd> <kbd>F →</kbd>
+  - <kbd>▼ ↓</kbd> <kbd>▲ ↑</kbd> <kbd>▶ →</kbd> <kbd>◀ ←</kbd>
 - 启用网格导航模式：<kbd>C</kbd>
 - 网格导航模式重置搜索：<kbd>删除 ⌫</kbd>
 - 按住 <kbd>空格 ␣</kbd>，配合 <kbd>A</kbd> <kbd>S</kbd> <kbd>W</kbd> <kbd>D</kbd> 移动窗口、选中文本和移动文件
-- 鼠标左键点击：<kbd>;</kbd> 或 <kbd>:</kbd>
-- 鼠标右键点击：<kbd>'</kbd> 或 <kbd>"</kbd>
+- 鼠标左键点击：<kbd>;:</kbd> 或 <kbd>↩︎ 回车</kbd>
+- 鼠标右键点击：<kbd>'"</kbd>
 - 鼠标滚轮滚动：
   - ⬅️ 左滚动：<kbd>U</kbd>
   - ➡️ 右滚动：<kbd>O</kbd>
