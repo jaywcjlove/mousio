@@ -10,6 +10,13 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.2.0)
+
+1. perf: 优化命令菜单与设置界面性能
+2. feat: 新增 Enter 快捷键触发左键点击
+3. feat: 新增使用键盘方向键控制光标
+4. style: 优化工具栏样式
+
 ## [v2.1.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.1.0)
 
 1. feat：新增 MousioHint 设置。
