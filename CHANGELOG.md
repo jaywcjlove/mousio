@@ -10,6 +10,11 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.3.0)
+
+1. perf: optimize settings options.
+2. fix: fix style issues with notifications on multiple screens.
+
 ## [v2.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.2.0)
 
 1. perf: Improve performance of command menu and settings UI.

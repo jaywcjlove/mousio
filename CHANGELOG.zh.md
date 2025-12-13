@@ -10,6 +10,11 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.3.0)
+
+1. perf: 优化设置选项。
+2. fix: 修复多个屏幕通知样式错乱的问题。
+
 ## [v2.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.2.0)
 
 1. perf: 优化命令菜单与设置界面性能
