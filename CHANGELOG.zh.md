@@ -6,7 +6,7 @@
 更新日志
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/mousio/6746747327" title="Mousio for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6746747327" title="Mousio for macOS">
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
