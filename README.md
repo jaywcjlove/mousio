@@ -33,8 +33,6 @@ Quickly move, click, and drag the mouse cursor using just your keyboard. Boost y
 
 ![Mousio 1](./assets/mousio4.gif)
 
-![Mousio 1](./assets/screenshots-4.png)
-
 ![Mousio 1](./assets/screenshots-5.png)
 
 ### Features
