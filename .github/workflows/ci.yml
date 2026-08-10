@@ -50,11 +50,11 @@ jobs:
             - <meta name="author" content="Kenny Wong">
             - <meta property="og:site_name" content="<%= site %>">
             - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
-            - <meta property="og:image" content="<%=homepage%>assets/audioer-preview.jpg">
+            - <meta property="og:image" content="<%=homepage%>assets/mousio-preview.png">
             - <meta property="og:type" content="application">
             - <meta property="og:title" content="<%= site %>">
             - <meta property="og:description" content="<%= description%>">
-            - <meta property="twitter:image:src" content="<%=homepage%>assets/audioer-preview.jpg">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/mousio-preview.png">
             - <meta property="twitter:site" content="@jaywcjlove">
             - <meta property="twitter:creator" content="jaywcjlove">
             - <meta property="twitter:card" content="summary_large_image">
@@ -79,7 +79,7 @@ jobs:
           EOF
       - run: npm install idoc@1 -g
       - run: idoc
-      - run: cp -rp assets/audioer-preview.png dist/assets/
+      - run: cp -rp assets/mousio-preview.png dist/assets/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
