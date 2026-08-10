@@ -42,6 +42,7 @@ jobs:
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/mousio
+          homepage: https://wangchujiang.com/mousio/
           tocs: false
           element: 
             wrapper: style=max-width:720px;
