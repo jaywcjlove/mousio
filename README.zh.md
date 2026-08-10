@@ -31,8 +31,13 @@
 
 ![Mousio 1](./assets/mousio4.gif)
 
+![Mousio 1](./assets/screenshots-4.png)
+
+![Mousio 1](./assets/screenshots-5.png)
+
 ### 功能特点
 
+- **快捷键启动台**：使用快捷键在启动台中启用应用
 - **键盘驱动光标控制**：使用快捷键即时移动和定位鼠标指针  
 - **网格导航模式**：通过可调整大小的屏幕网格实现精准导航  
 - **多显示器支持**：无缝在多个显示器之间移动光标  
@@ -60,6 +65,7 @@
   - <kbd>E ←</kbd> <kbd>S ↓</kbd> <kbd>D ↑</kbd> <kbd>F →</kbd>
   - <kbd>▼ ↓</kbd> <kbd>▲ ↑</kbd> <kbd>▶ →</kbd> <kbd>◀ ←</kbd>
 - 启用网格导航模式：<kbd>C</kbd>
+- 启用启动台：<kbd>\</kbd>，搜索快捷键<kbd>Cmd ⌘+/</kbd>
 - 网格导航模式重置搜索：<kbd>删除 ⌫</kbd>
 - 按住 <kbd>空格 ␣</kbd>，配合 <kbd>A</kbd> <kbd>S</kbd> <kbd>W</kbd> <kbd>D</kbd> 移动窗口、选中文本和移动文件
 - 鼠标左键点击：<kbd>;:</kbd> 或 <kbd>↩︎ 回车</kbd>

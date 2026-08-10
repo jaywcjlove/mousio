@@ -30,10 +30,16 @@ No need to touch the mouse — everything at your fingertips!
 Quickly move, click, and drag the mouse cursor using just your keyboard. Boost your efficiency and stay focused.
 
 ![Mousio 1](./assets/mousio3.gif)
+
 ![Mousio 1](./assets/mousio4.gif)
+
+![Mousio 1](./assets/screenshots-4.png)
+
+![Mousio 1](./assets/screenshots-5.png)
 
 ### Features
 
+- **Hotkey Launchpad**: Open apps in Launchpad using shortcuts
 - **Keyboard-driven cursor control**: Instantly move and position the mouse pointer using keyboard shortcuts  
 - **Grid navigation mode**: Navigate precisely using a resizable on-screen grid  
 - **Multi-display support**: Seamlessly move the cursor across multiple monitors  
@@ -61,6 +67,7 @@ Quickly move, click, and drag the mouse cursor using just your keyboard. Boost y
   - <kbd>E ←</kbd> <kbd>S ↓</kbd> <kbd>D ↑</kbd> <kbd>F →</kbd>
   - <kbd>▼ ↓</kbd> <kbd>▲ ↑</kbd> <kbd>▶ →</kbd> <kbd>◀ ←</kbd>
 - Enable Grid Navigation Mode: <kbd>C</kbd>
+- Enable Launchpad: Backslash <kbd>\</kbd>; Search shortcut: <kbd>Cmd ⌘+/</kbd>
 - Reset Search in Grid Navigation Mode: <kbd>Delete ⌫</kbd>
 - Hold <kbd>Space ␣</kbd> and use <kbd>A</kbd> <kbd>S</kbd> <kbd>W</kbd> <kbd>D</kbd> to move windows, select text, and move files
 - Left Mouse Click: <kbd>;:</kbd> or <kbd>↩︎ retern</kbd>

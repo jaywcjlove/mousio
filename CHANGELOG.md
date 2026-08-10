@@ -10,6 +10,19 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.0.0)
+
+1. feat: Add German, French, Italian, Japanese, Korean, Russian and Traditional Chinese localization
+2. feat: Add icon for status bar menu
+3. feat: Show remove button on hover in app navigation list
+4. feat: Migrate accessibility checks to PermissionFlow
+5. feat: Add Launchpad
+6. perf: Optimize permission checks and multi-screen switching
+7. fix: Fix startup failure when MousioHint is not installed
+8. fix: Keep menu item icons visible on macOS 27
+9. fix: Scope Launchpad toggle within keyboard-mouse mode
+10. fix: Fix scaling issue for custom Dock icons
+
 ## [v2.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.3.0)
 
 1. perf: optimize settings options.

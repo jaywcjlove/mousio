@@ -10,6 +10,19 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.0.0)
+
+1. feat: 新增德语、法语、意大利语、日语、韩语、俄语、繁体中文语言支持
+2. feat: 状态栏菜单添加图标
+3. feat: 应用导航列表悬浮显示移除按钮
+4. feat: 将权限校验逻辑迁移至 PermissionFlow
+5. feat: 新增启动台功能
+6. perf: 优化权限检测与多显示器切换逻辑
+7. fix: 修复未安装 MousioHint 时程序启动失败问题
+8. fix: 保证 macOS 27 下菜单项图标正常显示
+9. fix: 限定键鼠模式下启动台快捷键触发范围
+10. fix: 修复自定义程序坞图标缩放异常问题
+
 ## [v2.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v2.3.0)
 
 1. perf: 优化设置选项。
