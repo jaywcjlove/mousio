@@ -10,6 +10,14 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.1.0)
+
+1. feat: 键鼠模式快捷键支持鼠标左右键识别
+2. feat: 输入框聚焦时高亮
+3. feat: 新增 ⌘L 输入框聚焦快捷键
+4. fix: 修复键鼠模式子状态保持问题
+5. style: 优化侧边栏图标
+
 ## [v3.0.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.0.0)
 
 1. feat: 新增德语、法语、意大利语、日语、韩语、俄语、繁体中文语言支持

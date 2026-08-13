@@ -10,6 +10,14 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.1.0)
+
+1. feat: Add left & right click recognition for shortcuts in keyboard-mouse mode.
+2. feat: Highlight input box when focused.
+3. feat: Add ⌘L shortcut for input focus.
+4. fix: Fix child state retention issue in keyboard-mouse mode.
+5. style: Refine sidebar icons.
+
 ## [v3.0.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.0.0)
 
 1. feat: Add German, French, Italian, Japanese, Korean, Russian and Traditional Chinese localization
