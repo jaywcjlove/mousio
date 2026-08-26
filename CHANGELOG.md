@@ -10,6 +10,14 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.2.0)
+
+1. feat: Add keystroke & feature usage statistics.
+2. feat: Add global keyboard shortcut to launch and activate applications.
+3. feat: support modifier keys for stepwise cursor movement.
+4. feat: optimize launchpad app icon loading speed.
+5. style: Optimize UI button styles.
+
 ## [v3.1.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.1.0)
 
 1. feat: Add left & right click recognition for shortcuts in keyboard-mouse mode.

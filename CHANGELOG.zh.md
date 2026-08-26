@@ -10,6 +10,14 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.2.0)
+
+1. feat: 新增按键与功能使用统计功能
+2. feat: 新增全局键盘快捷键，用于唤起与激活应用
+3. feat: 支持修饰键实现步进式光标移动
+4. feat: 优化启动台应用图标加载速度
+5. style: 优化界面按钮样式
+
 ## [v3.1.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.1.0)
 
 1. feat: 键鼠模式快捷键支持鼠标左右键识别
