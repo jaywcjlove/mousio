@@ -25,9 +25,9 @@
 
 ![Mousio 1](./assets/screenshots-1.png)
 
-No need to touch the mouse — everything at your fingertips!
+Enjoy a keyboard-only experience without the need for a mouse or trackpad. Quickly move, click, and drag the mouse cursor using only your keyboard. Inspired by Vim’s keyboard-first philosophy, it brings common mouse operations to the keyboard, reducing the need to switch between the keyboard and mouse and helping you work more efficiently while staying focused.
 
-Quickly move, click, and drag the mouse cursor using just your keyboard. Boost your efficiency and stay focused.
+At the same time, it is an accessibility tool designed specifically for keyboard-based interaction. It is ideal for users who want to reduce their reliance on a mouse and improve keyboard efficiency, as well as users with limited mobility, motor impairments, hand tremors, arthritis, repetitive strain injuries (RSI), or other conditions that make using a mouse or trackpad difficult, uncomfortable, or painful—making computer interaction simpler and more flexible.
 
 ![Mousio 1](./assets/mousio3.gif)
 
@@ -44,6 +44,7 @@ Quickly move, click, and drag the mouse cursor using just your keyboard. Boost y
 - **Custom Dock-style launcher**: Create a customizable Dock-style panel for quick app or action access  
 - **Focus Screen**: Highlight the screen under the mouse cursor to focus on the active area.  
 - **Hint settings support**: Use shortcuts to quickly locate UI elements and move the pointer.
+- **Statistics**: Track usage statistics and key press counts
 
 ### [Mousio Hint](https://github.com/jaywcjlove/mousio-hint)
 
