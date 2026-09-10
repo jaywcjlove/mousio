@@ -10,6 +10,12 @@
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.3.0)
+
+1. feat: 新增光标移动统计
+2. feat: 趋势图表支持数据过滤
+3. fix: 修复方向键导航统计不准确问题
+
 ## [v3.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.2.0)
 
 1. feat: 新增按键与功能使用统计功能

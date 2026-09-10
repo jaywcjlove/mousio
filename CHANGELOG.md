@@ -10,6 +10,8 @@ Changelog
 <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.3.0)
+
 ## [v3.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.2.0)
 
 1. feat: Add keystroke & feature usage statistics.
