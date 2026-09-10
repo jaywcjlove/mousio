@@ -12,6 +12,10 @@ Changelog
 
 ## [v3.3.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.3.0)
 
+1. feat: add cursor movement statistics
+2. feat: add data filtering support for trends
+3. fix: fix inaccurate statistics for arrow‑key navigation.
+
 ## [v3.2.0](https://github.com/jaywcjlove/mousio/releases/tag/v3.2.0)
 
 1. feat: Add keystroke & feature usage statistics.
